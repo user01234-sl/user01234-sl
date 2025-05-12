@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @user01234-sl
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ---
+- ⚡ Fun fact: ---
